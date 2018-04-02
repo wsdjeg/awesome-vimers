@@ -5,3 +5,4 @@
 昵称 | Github | twitter or weibo | 插件列表
 --- | --- | --- | ---
 千年一梦 | [Yggdroot](https://github.com/Yggdroot) | | LeaderF [![GitHub stars](https://img.shields.io/github/stars/Yggdroot/LeaderF.svg?style=social&label=Star)](https://github.com/Yggdroot/LeaderF)
+腾辉 | [tenfyzhong](https://github.com/tenfyzhong) | | CompleteParameter.vim [![GitHub stars](https://img.shields.io/github/stars/tenfyzhong/CompleteParameter.vim.svg?style=social&label=Star)](https://github.com/tenfyzhong/CompleteParameter.vim)
