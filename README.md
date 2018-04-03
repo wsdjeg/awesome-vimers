@@ -14,10 +14,20 @@
 - Github: https://github.com/Yggdroot
 
 - LeaderF [![GitHub stars](https://img.shields.io/github/stars/Yggdroot/LeaderF.svg?style=social&label=Star)](https://github.com/Yggdroot/LeaderF)
+> 模糊查找器
 - indentLine [![GitHub stars](https://img.shields.io/github/stars/Yggdroot/indentLine.svg?style=social&label=Star)](https://github.com/Yggdroot/indentLine)
+> 代码对齐线
 
 #### 腾辉
 
 - Github: https://github.com/tenfyzhong
 
 - CompleteParameter.vim [![GitHub stars](https://img.shields.io/github/stars/tenfyzhong/CompleteParameter.vim.svg?style=social&label=Star)](https://github.com/tenfyzhong/CompleteParameter.vim)
+> 补全后，自动展开参数
+
+#### 吕海涛
+
+- Github: https://github.com/lvht
+
+- phpcd.vim [![GitHub stars](https://img.shields.io/github/stars/lvht/phpcd.vim.svg?style=social&label=Star)](https://github.com/lvht/phpcd.vim)
+> php 自动补全插件
