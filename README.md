@@ -7,6 +7,7 @@
 - [千年一梦](#千年一梦)
 - [腾辉](#腾辉)
 - [吕海涛](#吕海涛)
+- [韦易笑](#韦易笑)
 
 <!-- vim-markdown-toc -->
 
@@ -32,3 +33,10 @@
 
 - phpcd.vim [![GitHub stars](https://img.shields.io/github/stars/lvht/phpcd.vim.svg?style=social&label=Star)](https://github.com/lvht/phpcd.vim)
 > php 自动补全插件
+
+#### 韦易笑
+
+- Github: https://github.com/skywind3000
+
+- asyncrun.vim [![GitHub stars](https://img.shields.io/github/stars/skywind3000/asyncrun.vim.svg?style=social&label=Star)](https://github.com/skywind3000/asyncrun.vim)
+> 方便的异步运行命令的插件，可以代替vim自带的:!命令
