@@ -23,7 +23,7 @@
 
 #### 腾辉
 
-- Github: https://github.com/tenfyzhong
+[![GitHub followers](https://img.shields.io/github/followers/tenfyzhong.svg?style=flat-square&label=Follow)](https://github.com/tenfyzhong)
 
 - CompleteParameter.vim [![GitHub stars](https://img.shields.io/github/stars/tenfyzhong/CompleteParameter.vim.svg?style=social&label=Star)](https://github.com/tenfyzhong/CompleteParameter.vim)
 > 补全后，自动展开参数
@@ -46,6 +46,5 @@
 
 - Github： https://github.com/lilydjwg
 
-- https://github.com/lilydjwg/colorizer 
 - colorizer [![GitHub stars](https://img.shields.io/github/stars/lilydjwg/colorizer.svg?style=social&label=Star)](https://github.com/lilydjwg/colorizer)
 > 一款不错的 Vim 调色盘
