@@ -14,7 +14,7 @@
 
 #### 千年一梦
 
-- Github: https://github.com/Yggdroot
+[![GitHub followers](https://img.shields.io/github/followers/Yggdroot.svg?style=flat-square&label=Follow)](https://github.com/Yggdroot)
 
 - LeaderF [![GitHub stars](https://img.shields.io/github/stars/Yggdroot/LeaderF.svg?style=social&label=Star)](https://github.com/Yggdroot/LeaderF)
 > 模糊查找器
@@ -30,21 +30,21 @@
 
 #### 吕海涛
 
-- Github: https://github.com/lvht
+[![GitHub followers](https://img.shields.io/github/followers/lvht.svg?style=flat-square&label=Follow)](https://github.com/lvht)
 
 - phpcd.vim [![GitHub stars](https://img.shields.io/github/stars/lvht/phpcd.vim.svg?style=social&label=Star)](https://github.com/lvht/phpcd.vim)
 > php 自动补全插件
 
 #### 韦易笑
 
-- Github: https://github.com/skywind3000
+[![GitHub followers](https://img.shields.io/github/followers/skywind3000.svg?style=flat-square&label=Follow)](https://github.com/skywind3000)
 
 - asyncrun.vim [![GitHub stars](https://img.shields.io/github/stars/skywind3000/asyncrun.vim.svg?style=social&label=Star)](https://github.com/skywind3000/asyncrun.vim)
 > 方便的异步运行命令的插件，可以代替vim自带的:!命令
 
 #### 依云
 
-- Github： https://github.com/lilydjwg
+[![GitHub followers](https://img.shields.io/github/followers/lilydjwg.svg?style=flat-square&label=Follow)](https://github.com/lilydjwg)
 
 - colorizer [![GitHub stars](https://img.shields.io/github/stars/lilydjwg/colorizer.svg?style=social&label=Star)](https://github.com/lilydjwg/colorizer)
 > 一款不错的 Vim 调色盘
