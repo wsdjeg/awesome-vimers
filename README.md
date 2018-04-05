@@ -9,6 +9,7 @@
 - [吕海涛](#吕海涛)
 - [韦易笑](#韦易笑)
 - [依云](#依云)
+- [Ye Ding](#ye-ding)
 
 <!-- vim-markdown-toc -->
 
@@ -48,3 +49,10 @@
 
 - colorizer [![GitHub stars](https://img.shields.io/github/stars/lilydjwg/colorizer.svg?style=social&label=Star)](https://github.com/lilydjwg/colorizer)
 > 一款不错的 Vim 调色盘
+
+#### Ye Ding
+
+[![GitHub followers](https://img.shields.io/github/followers/dyng.svg?style=flat-square&label=Follow)](https://github.com/dyng)
+
+- ctrlsf [![GitHub stars](https://img.shields.io/github/stars/dyng/ctrlsf.vim.svg?style=social&label=Star)](https://github.com/dyng/ctrlsf.vim)
+> 非常不错的搜索插件
