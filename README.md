@@ -10,6 +10,7 @@
 - [韦易笑](#韦易笑)
 - [依云](#依云)
 - [Ye Ding](#ye-ding)
+- [年糕小豆汤](#年糕小豆汤)
 
 <!-- vim-markdown-toc -->
 
@@ -56,3 +57,10 @@
 
 - ctrlsf [![GitHub stars](https://img.shields.io/github/stars/dyng/ctrlsf.vim.svg?style=social&label=Star)](https://github.com/dyng/ctrlsf.vim)
 > 非常不错的搜索插件
+
+#### 年糕小豆汤
+
+[![GitHub followers](https://img.shields.io/github/followers/iamcco.svg?style=flat-square&lw)](https://github.com/iamcco)
+
+- markdown-preview.vim [![GitHub stars](https://img.shields.io/github/stars/iamcco/markdown-preview.vim.svg?style=social&label=Star)](https://github.com/iamcco/markdown-preview.vim)
+> 调用默认浏览器进行实时markdown预览(追踪光标)
