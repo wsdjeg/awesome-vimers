@@ -62,5 +62,5 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/iamcco.svg?style=flat-square&lw)](https://github.com/iamcco)
 
-- ctrlsf [![GitHub stars](https://img.shields.io/github/stars/iamcco/markdown-preview.vim.svg?style=social&label=Star)](https://github.com/iamcco/markdown-preview.vim)
+- markdown-preview.vim [![GitHub stars](https://img.shields.io/github/stars/iamcco/markdown-preview.vim.svg?style=social&label=Star)](https://github.com/iamcco/markdown-preview.vim)
 > 调用默认浏览器进行实时markdown预览(追踪光标)
