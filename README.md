@@ -12,6 +12,7 @@
 - [Ye Ding](#ye-ding)
 - [年糕小豆汤](#年糕小豆汤)
 - [mzlogin](#mzlogin)
+- [maralla](#maralla)
 
 <!-- vim-markdown-toc -->
 
@@ -72,3 +73,10 @@
 
 - vim-markdown-toc [![GitHub stars](https://img.shields.io/github/stars/mzlogin/vim-markdown-toc.svg?style=social&label=Star)](https://github.com/mzlogin/vim-markdown-toc)
 > 自动生成和更新 Markdown 文件的目录
+
+#### maralla
+
+[![GitHub followers](https://img.shields.io/github/followers/maralla.svg?style=flat-square&lw)](https://github.com/maralla)
+
+- completor.vim [![GitHub stars](https://img.shields.io/github/stars/maralla/completor.vim.svg?style=social&label=Star)](https://github.com/maralla/completor.vim)
+> Vim 自动补全引擎
