@@ -11,6 +11,7 @@
 - [依云](#依云)
 - [Ye Ding](#ye-ding)
 - [年糕小豆汤](#年糕小豆汤)
+- [mzlogin](#mzlogin)
 
 <!-- vim-markdown-toc -->
 
@@ -64,3 +65,10 @@
 
 - markdown-preview.vim [![GitHub stars](https://img.shields.io/github/stars/iamcco/markdown-preview.vim.svg?style=social&label=Star)](https://github.com/iamcco/markdown-preview.vim)
 > 调用默认浏览器进行实时markdown预览(追踪光标)
+
+#### mzlogin
+
+[![GitHub followers](https://img.shields.io/github/followers/mzlogin.svg?style=flat-square&lw)](https://github.com/mzlogin)
+
+- vim-markdown-toc [![GitHub stars](https://img.shields.io/github/stars/mzlogin/vim-markdown-toc.svg?style=social&label=Star)](https://github.com/mzlogin/vim-markdown-toc)
+> 自动生成和更新 Markdown 文件的目录
