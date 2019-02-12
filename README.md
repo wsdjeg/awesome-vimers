@@ -13,6 +13,7 @@
 - [年糕小豆汤](#年糕小豆汤)
 - [mzlogin](#mzlogin)
 - [maralla](#maralla)
+- [赵启明](#赵启明)
 
 <!-- vim-markdown-toc -->
 
@@ -83,3 +84,10 @@
 
 - completor.vim [![GitHub stars](https://img.shields.io/github/stars/maralla/completor.vim.svg?style=social&label=Star)](https://github.com/maralla/completor.vim)
 > Vim 自动补全引擎
+
+#### 赵启明
+
+[![GitHub followers](https://img.shields.io/github/followers/chemzqm.svg?style=flat-square&lw)](https://github.com/chemzqm)
+
+- coc.nvim [![GitHub stars](https://img.shields.io/github/stars/neoclide/coc.nvim.svg?style=social&label=Star)](https://github.com/neoclide/coc.nvim)
+> TypeScript 实现的异步补全插件，支持 Vim、Neovim
