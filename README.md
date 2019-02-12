@@ -67,6 +67,9 @@
 - markdown-preview.vim [![GitHub stars](https://img.shields.io/github/stars/iamcco/markdown-preview.vim.svg?style=social&label=Star)](https://github.com/iamcco/markdown-preview.vim)
 > 调用默认浏览器进行实时markdown预览(追踪光标)
 
+- markdown-preview.nvim [![GitHub stars](https://img.shields.io/github/stars/iamcco/markdown-preview.nvim.svg?style=social&label=Star)](https://github.com/iamcco/markdown-preview.nvim)
+> 新一代 markdown 文件实时预览插件（追踪光标）
+
 #### mzlogin
 
 [![GitHub followers](https://img.shields.io/github/followers/mzlogin.svg?style=flat-square&lw)](https://github.com/mzlogin)
