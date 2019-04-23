@@ -14,6 +14,7 @@
 - [mzlogin](#mzlogin)
 - [maralla](#maralla)
 - [赵启明](#赵启明)
+- [jsfaint](#jsfaint)
 
 <!-- vim-markdown-toc -->
 
@@ -46,6 +47,9 @@
 
 - asyncrun.vim [![GitHub stars](https://img.shields.io/github/stars/skywind3000/asyncrun.vim.svg?style=social&label=Star)](https://github.com/skywind3000/asyncrun.vim)
 > 方便的异步运行命令的插件，可以代替vim自带的:!命令
+
+- vim-preview [![GitHub stars](https://img.shields.io/github/stars/skywind3000/vim-preview.svg?style=social&label=Star)](https://github.com/skywind3000/vim-preview)
+> 给vim添加预览功能
 
 #### 依云
 
@@ -91,3 +95,10 @@
 
 - coc.nvim [![GitHub stars](https://img.shields.io/github/stars/neoclide/coc.nvim.svg?style=social&label=Star)](https://github.com/neoclide/coc.nvim)
 > TypeScript 实现的异步补全插件，支持 Vim、Neovim
+
+#### jsfaint
+
+[![GitHub followers](https://img.shields.io/github/followers/jsfaint.svg?style=flat-square&lw)](https://github.com/jsfaint)
+
+- gen_tags.vim [![GitHub stars](https://img.shields.io/github/stars/jsfaint/gen_tags.vim.svg?style=social&label=Star)](https://github.com/jsfaint/gen_tags.vim)
+> 用来生成和管理 ctags/gtags
