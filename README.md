@@ -15,6 +15,7 @@
 - [maralla](#maralla)
 - [赵启明](#赵启明)
 - [jsfaint](#jsfaint)
+- [noearc](#noearc)
 
 <!-- vim-markdown-toc -->
 
@@ -102,3 +103,9 @@
 
 - gen_tags.vim [![GitHub stars](https://img.shields.io/github/stars/jsfaint/gen_tags.vim.svg?style=social&label=Star)](https://github.com/jsfaint/gen_tags.vim)
 > 用来生成和管理 ctags/gtags
+
+#### noearc
+[![GitHub followers](https://img.shields.io/github/followers/noearc.svg?style=flat-square&lw)](https://github.com/noearc)
+
+- nvim-zh [![GitHub stars](https://img.shields.io/github/stars/noearc/nvim-zh.svg?style=social&label=Star)](https://github.com/noearc/nvim-zh)
+> 改进neovim整体中文输入体验
